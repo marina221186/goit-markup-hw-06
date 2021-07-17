@@ -534,7 +534,9 @@ body {
   text-transform: uppercase;
   color: #ffff;
 }
-
+.footer-form{
+  display: flex;
+}
 .footer-form-input{
   width: 358px;
   height: 50px;
@@ -575,10 +577,7 @@ body {
  color: #FFFFFF;
  padding: 10px 28px;
  display: flex;
- transform: translateX(185%);
- 
 }
-
 .footer-form-btn-imges{
   margin-left: 10px;
 }
